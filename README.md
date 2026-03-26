@@ -118,9 +118,11 @@ int main(void)
 
 ## OUTPUT
 ## RELAY ON
+
 <img width="753" height="1004" alt="image" src="https://github.com/user-attachments/assets/8c31c2a4-a330-40c9-b677-9d57500b9aab" />
 
 ## RELAY OFF 
+
 <img width="753" height="1004" alt="image" src="https://github.com/user-attachments/assets/4d3b9b18-b3bc-4669-a9e2-c712f17bafe9" />
 
 
